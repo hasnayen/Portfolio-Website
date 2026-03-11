@@ -417,7 +417,7 @@ function GoalScreen({ playerName, kitColor, onReplay }: { playerName: string; ki
                   <p className="font-mono font-bold text-xs text-white">HSC (Science) — Dhaka City College · 2015–2017 · GPA 4.92/5.00</p>
                 </div>
                 <div>
-                  <p className="font-mono font-bold text-xs text-white">SSC (Science) — Engineering University School · 2015 · GPA 4.92/5.00</p>
+                  <p className="font-mono font-bold text-xs text-white">SSC (Science) — Engineering University School · 2015 · GPA 5.00/5.00</p>
                 </div>
               </div>
             </div>
