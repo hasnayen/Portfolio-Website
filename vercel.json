@@ -1,0 +1,8 @@
+{
+  "installCommand": "npm install --include=dev",
+  "buildCommand": "./node_modules/.bin/vite build",
+  "outputDirectory": "dist/public",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
