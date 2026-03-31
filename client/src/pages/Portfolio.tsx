@@ -298,6 +298,7 @@ const skillCategories = [
 ];
 
 const certifications = [
+  { title: "Product Management Career Bootcamp", issuer: "HDNB", period: "Dec 2025 – Mar 2026", link: "https://www.linkedin.com/feed/update/urn:li:activity:7441833915876782080/" },
   { title: "Certified SQL Associate", issuer: "DataCamp", period: "Mar 2025 – Mar 2027", link: "https://www.datacamp.com/certificate/SQA0010977907566" },
   { title: "Associate Data Analyst", issuer: "DataCamp", period: "Sep 2024 – Sep 2026", link: "https://www.datacamp.com/certificate/DAA0015351231353" },
   { title: "Data Science & ML with Python", issuer: "OSTAD", period: "Jun – Nov 2024", link: "https://ostad.app/share/certificate/a19014-abu-hasnayen-zillanee" },
